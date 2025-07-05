@@ -40,6 +40,8 @@ Each folder contains relevant files and scripts. At this moment, the materials a
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+See the NOTICE files inside folders for third-party attributions
+
 ## Credits
 Created by Carlos Bienvenido Ogando Montás. If you use this material, please give proper attribution.
 

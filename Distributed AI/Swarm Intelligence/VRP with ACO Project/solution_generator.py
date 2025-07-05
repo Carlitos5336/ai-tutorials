@@ -1,5 +1,5 @@
 from concurrent.futures import ProcessPoolExecutor
-from CW_VRP import ClarkWrightSolver, BruteForceSolver, ACOSolver
+from VRP import ClarkWrightSolver, BruteForceSolver, ACOSolver
 import pandas as pd
 from tqdm import tqdm
 import warnings
