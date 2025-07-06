@@ -1,6 +1,6 @@
 # AI Learning Resources Repository
 
-Welcome! This repository contains a collection of learning materials and code snippets related to various topics in Artificial Intelligence, curated primarily for my students. I’m sharing it publicly in case others find it useful for study or exploration.
+Welcome! This repository contains a collection of learning materials and code snippets related to various topics in Artificial Intelligence, **curated primarily for my students**. I’m sharing it publicly in case others find it useful for study or exploration.
 
 ---
 
