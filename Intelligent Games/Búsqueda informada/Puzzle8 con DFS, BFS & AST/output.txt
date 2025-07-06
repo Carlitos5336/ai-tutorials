@@ -1,0 +1,7 @@
+path_to_goal: ['Down', 'Down', 'Right', 'Up', 'Right', 'Down', 'Left', 'Up', 'Left', 'Up', 'Right', 'Right', 'Down', 'Down', 'Left', 'Up', 'Right', 'Up', 'Left', 'Left']
+cost_of_path: 20
+nodes_expanded: 40128
+search_depth: 20
+max_search_depth: 21
+running_time: 1.4998576641082764
+max_ram_usage: 115.740672
