@@ -6,3 +6,7 @@ Data files used here extracted from:
 - movies.csv & ratings.csv (https://www.kaggle.com/datasets/ayushimishra2809/movielens-dataset)
 - telco_customers_churn.csv (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - spending_patterns_detailed.csv (https://www.kaggle.com/datasets/ahmedmohamed2003/spending-habits)
+- mobile_phone_price.csv (https://www.kaggle.com/datasets/rkiattisak/mobile-phone-price)
+- apartments_pl_2023_08.csv (https://www.kaggle.com/datasets/krzysztofjamroz/apartment-prices-in-poland)
+- laptop_price.csv (https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset)
+- car_prices.csv (https://www.kaggle.com/datasets/tunguz/used-car-auction-prices)
