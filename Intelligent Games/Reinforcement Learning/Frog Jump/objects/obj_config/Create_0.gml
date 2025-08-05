@@ -1,0 +1,1 @@
+instance_create_layer(x, y, "NN", obj_nn_graph)

@@ -1,0 +1,1 @@
+y = pivot_y + cos(current_time/800) * 100

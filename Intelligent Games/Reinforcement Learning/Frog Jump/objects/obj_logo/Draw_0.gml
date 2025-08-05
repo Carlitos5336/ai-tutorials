@@ -1,0 +1,5 @@
+draw_self()
+draw_set_halign(fa_center)
+draw_set_font(fnt_menu)
+draw_text_ext(room_width/2, y-300, "A game by Treemolo", 50, 500)
+draw_set_halign(fa_left)
