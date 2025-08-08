@@ -16,6 +16,7 @@ The content is organized into the following main folders, each focused on a majo
 - **Machine Learning**  
 - **Natural Language Processing (NLP)**  
 - **Python Basics**
+- **And more...**
 
 Each folder contains relevant files and scripts. At this moment, the materials are mostly raw and lightly documented but can serve as a solid starting point.
 
