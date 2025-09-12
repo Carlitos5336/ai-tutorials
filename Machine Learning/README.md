@@ -10,3 +10,4 @@ Data files used here extracted from:
 - apartments_pl_2023_08.csv (https://www.kaggle.com/datasets/krzysztofjamroz/apartment-prices-in-poland)
 - laptop_price.csv (https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset)
 - car_prices.csv (https://www.kaggle.com/datasets/tunguz/used-car-auction-prices)
+- traffic_accidents.csv (https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents)
