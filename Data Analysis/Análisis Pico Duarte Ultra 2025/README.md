@@ -16,8 +16,8 @@ Este fue un proyecto personal por diversi√≥n con Power BI mientras sigo mi pasi√
 
 *Preview:*
 
-![Screenshot 1]("doc_images/PDE 2025 Dashboard-1.png")
+![Screenshot 1](doc_images/PDE_2025_Dashboard_1.png)
 
-![Screenshot 2]("doc_images/PDE 2025 Dashboard-2.png")
+![Screenshot 2](doc_images/PDE_2025_Dashboard_2.png)
 
-![Screenshot 3]("doc_images/PDE 2025 Dashboard-3.png")
+![Screenshot 3](doc_images/PDE_2025_Dashboard_3.png)
