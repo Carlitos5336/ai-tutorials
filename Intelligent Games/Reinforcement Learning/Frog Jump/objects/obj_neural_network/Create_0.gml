@@ -23,7 +23,7 @@ function evaluate_network(_input_vec, _activation_fn) {
 
 	for (var _i = 0; _i < array_length(net.weights); _i++) {
 		var _z = _matrix_sum(_matrix_multiply(net.weights[_i], _a), net.biases[_i]);
-		_a = _activation_fn(z);
+		_a = _activation_fn(_z);
 		array_push(net.activations, _a);
 	}
 	
