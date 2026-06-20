@@ -5,3 +5,7 @@ Data files used here extracted from:
 - disney_plus_titles (https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
 - amazon_prime_titles (https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 - Resultados de carreras scrapeados de SDCorre (https://santodomingocorre.com/resultados)
+- Surat uncleaned (https://www.kaggle.com/datasets/umeshtogadiya/surat-city-dataset)
+- Nómina MESCyT Fijos 2025 (https://mescyt.gob.do/transparencia/recursos-humanos/nominas/personal-fijo)
+- Nómina ITLA Fijos 2025 (https://transparencia.itla.edu.do/recursos-humanos/nominas/)
+- Nómina MINPRE Fijos 2025 (https://minpre.gob.do/transparencia/recursos-humanos/nomina-empleados/)
