@@ -12,3 +12,8 @@ Data files used here extracted from:
 - car_prices.csv (https://www.kaggle.com/datasets/tunguz/used-car-auction-prices)
 - traffic_accidents.csv (https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents)
 - atp_tennis.csv (https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily-pull)
+- BCRD - Histórico diario de tasas.xlsx (https://www.bancentral.gov.do/a/d/2533)
+- ipc_base_2019-2020.xls (https://www.bancentral.gov.do/a/d/2533)
+- pib_2018.xlsx (https://www.bancentral.gov.do/a/d/2533)
+- Serie_TPM.xlsx (https://www.bancentral.gov.do/a/d/2533)
+- crude_oil_brent.csv (https://www.kaggle.com/datasets/sachinarkesh/brent-oil-prices?select=crude_oil_brent.csv)
